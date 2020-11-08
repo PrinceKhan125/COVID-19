@@ -5,7 +5,7 @@ all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
 PROJECT TITLE: Lab10-2
-PURPOSE OF PROJECT: Create Random Scenario for Github
+PURPOSE OF PROJECT: Create Random Scenario for Github.
 VERSION or DATE: 11/7/2020
 HOW TO START THIS PROJECT: Open and Run
 AUTHORS: Muhammad Huzaifa Alam Khan
