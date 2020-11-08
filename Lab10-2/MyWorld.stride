@@ -25,10 +25,10 @@ That is: create the initial objects and add them to the world.</javadoc>
             <params/>
             <throws/>
             <body>
-                <variable type="Asteroid" type-java="Asteroid" name="asteroid" value="new Asteroid()" value-java=" new Asteroid()" enable="true"/>
-                <call expression="addObject(asteroid,298,188)" expression-java="addObject(asteroid, 298, 188)" enable="true"/>
                 <variable type="Rocket" type-java="Rocket" name="rocket" value="new Rocket()" value-java=" new Rocket()" enable="true"/>
                 <call expression="addObject(rocket,292,102)" expression-java="addObject(rocket, 292, 102)" enable="true"/>
+                <variable type="Asteroid" type-java="Asteroid" name="asteroid" value="new Asteroid()" value-java=" new Asteroid()" enable="true"/>
+                <call expression="addObject(asteroid,291,204)" expression-java="addObject(asteroid, 291, 204)" enable="true"/>
             </body>
         </method>
     </methods>

@@ -24,9 +24,9 @@ public class MyWorld extends World
      */
     private void prepare()
     {
-        Asteroid asteroid =  new Asteroid();
-        addObject(asteroid, 298, 188);
-        Rocket rocket =  new Rocket();
+        Rocket rocket =  new  Rocket();
         addObject(rocket, 292, 102);
+        Asteroid asteroid =  new  Asteroid();
+        addObject(asteroid, 291, 204);
     }
 }
