@@ -24,9 +24,17 @@ public class MyWorld extends World
      */
     private void prepare()
     {
-        Rock rock =  new Rock();
+        Rock rock =  new  Rock();
         addObject(rock, 281, 192);
-        Rocket rocket =  new Rocket();
+        Rocket rocket =  new  Rocket();
         addObject(rocket, 276, 125);
+        Ted ted =  new  Ted();
+        addObject(ted, 39, 49);
+        Ted ted2 =  new  Ted();
+        addObject(ted2, 36, 361);
+        Ted ted3 =  new  Ted();
+        addObject(ted3, 561, 41);
+        Ted ted4 =  new  Ted();
+        addObject(ted4, 561, 364);
     }
 }

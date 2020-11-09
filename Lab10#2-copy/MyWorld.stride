@@ -29,6 +29,14 @@ That is: create the initial objects and add them to the world.</javadoc>
                 <call expression="addObject(rock,281,192)" expression-java="addObject(rock, 281, 192)" enable="true"/>
                 <variable type="Rocket" type-java="Rocket" name="rocket" value="new Rocket()" value-java=" new Rocket()" enable="true"/>
                 <call expression="addObject(rocket,276,125)" expression-java="addObject(rocket, 276, 125)" enable="true"/>
+                <variable type="Ted" type-java="Ted" name="ted" value="new Ted()" value-java=" new Ted()" enable="true"/>
+                <call expression="addObject(ted,39,49)" expression-java="addObject(ted, 39, 49)" enable="true"/>
+                <variable type="Ted" type-java="Ted" name="ted2" value="new Ted()" value-java=" new Ted()" enable="true"/>
+                <call expression="addObject(ted2,36,361)" expression-java="addObject(ted2, 36, 361)" enable="true"/>
+                <variable type="Ted" type-java="Ted" name="ted3" value="new Ted()" value-java=" new Ted()" enable="true"/>
+                <call expression="addObject(ted3,561,41)" expression-java="addObject(ted3, 561, 41)" enable="true"/>
+                <variable type="Ted" type-java="Ted" name="ted4" value="new Ted()" value-java=" new Ted()" enable="true"/>
+                <call expression="addObject(ted4,561,364)" expression-java="addObject(ted4, 561, 364)" enable="true"/>
             </body>
         </method>
     </methods>
