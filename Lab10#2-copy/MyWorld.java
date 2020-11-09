@@ -38,5 +38,7 @@ public class MyWorld extends World
         addObject(ted4, 561, 364);
         Astronaut astronaut =  new  Astronaut();
         addObject(astronaut, 35, 278);
+        Rana rana =  new  Rana();
+        addObject(rana, 566, 274);
     }
 }

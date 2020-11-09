@@ -39,6 +39,8 @@ That is: create the initial objects and add them to the world.</javadoc>
                 <call expression="addObject(ted4,561,364)" expression-java="addObject(ted4, 561, 364)" enable="true"/>
                 <variable type="Astronaut" type-java="Astronaut" name="astronaut" value="new Astronaut()" value-java=" new Astronaut()" enable="true"/>
                 <call expression="addObject(astronaut,35,278)" expression-java="addObject(astronaut, 35, 278)" enable="true"/>
+                <variable type="Rana" type-java="Rana" name="rana" value="new Rana()" value-java=" new Rana()" enable="true"/>
+                <call expression="addObject(rana,566,274)" expression-java="addObject(rana, 566, 274)" enable="true"/>
             </body>
         </method>
     </methods>
